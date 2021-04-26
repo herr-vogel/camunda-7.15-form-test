@@ -1,0 +1,19 @@
+{
+  "type": "default",
+  "components": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "textfield",
+      "description": "Your name",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "key": "button3",
+      "label": "Submit",
+      "type": "button"
+    }
+  ]
+}
